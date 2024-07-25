@@ -239,11 +239,11 @@ $$
 <div style="display: flex; justify-content: center;">
     <div style="margin: 0 10px;">
         <img src="results/standard_galerkin_Pe=0.5.png" alt="Standard Galerkin Pe = 0.5" style="width: 80%;">
-        <p style="text-align: center;">Pe = 0.5 Standard Galerkin and SUPG applied</p>
+        <p style="text-align: center;">Pe = 0.5 Standard Galerkin</p>
     </div>
     <div style="margin: 0 10px;">
         <img src="results/standard_galerkin_Pe=5.0.png" alt="Standard Galerkin Pe = 5.0" style="width: 80%;">
-        <p style="text-align: center;">Pe = 5.0 Standard Galerkin and SUPG applied</p>
+        <p style="text-align: center;">Pe = 5.0 Standard Galerkin</p>
     </div>
 </div>
 
@@ -301,11 +301,11 @@ $$
 <div style="display: flex; justify-content: center;">
     <div style="margin: 0 10px;">
         <img src="results/Pe=0.5.png" alt="Standard Galerkin Pe = 0.5" style="width: 80%;">
-        <p style="text-align: center;">Pe = 0.5 Standard Galerkin</p>
+        <p style="text-align: center;">Pe = 0.5 SUPG applied</p>
     </div>
     <div style="margin: 0 10px;">
         <img src="results/Pe=5.0.png" alt="Standard Galerkin Pe = 5.0" style="width: 80%;">
-        <p style="text-align: center;">Pe = 5.0 Standard Galerkin</p>
+        <p style="text-align: center;">Pe = 5.0 SUPG applied</p>
     </div>
 </div>
 
